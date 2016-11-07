@@ -1,6 +1,7 @@
 /**
  * Created by toshiba on 07/11/2016.
- */
+ */ 
+// this SRC code not finished i shared it in order to give me my errors than i'll do it again in a clean project thanx 
 
 import java.util.ArrayList;
 import java.util.Scanner;
