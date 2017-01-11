@@ -7,7 +7,7 @@ public class Joueur {
     public void calscore(int m){
         this.score = score +m;
     }
-    public joueur (){
+    public joueur (){//ici
         this.name=null;
         this.score=0;
     }
